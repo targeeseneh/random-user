@@ -1,48 +1,6 @@
-/* .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px;
-    
-    
-  }
+
   
-  .user-cards {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-  }
-  
-  .user-card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border: 1px solid #ccc;
-    padding: 20px;
-    border-radius: 5px;
-    
-  }
  
-  
-  .user-image {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-  }
-  
-  button {
-    margin-top: 20px;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  button:hover {
-    background-color: #0056b3;
-  } */
   
   body {
     margin: auto;
@@ -65,6 +23,9 @@
     gap: 20px;
     color: black;
     height: auto;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
   }
   
   .user-card {
@@ -76,6 +37,9 @@
     padding: 20px;
     border-radius: 5px;
     background-color: #ECEBFF;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
   }
   
   .user-image {
